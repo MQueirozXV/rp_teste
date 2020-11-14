@@ -1,0 +1,9 @@
+body {
+	font-family: Arial;
+	font-size: 12px;
+	background-color: #EEEEEE;
+}
+
+div.container {
+	background-color: #FFFFFF;
+}
